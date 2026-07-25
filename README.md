@@ -9,5 +9,5 @@ This is my first python project on GitHub
 ## Language
 - Python
 ## Author
-Faraz Ashraf
-GitHub:farazbuilds-ai
+- Faraz Ashraf
+- GitHub:farazbuilds-ai
