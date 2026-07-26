@@ -1,11 +1,10 @@
-# python-fizzbuzz
-## About
-This is my first python project on GitHub
-## What it does
-- Prints "Fizz" for multiple of 3
-- Prints "Buzz" for multiple of 5
-- Prints "FizzBuzz" for numbers divisible by both 3 and 5.
-- Otherwise, it prints the number.
+# Python Beginner Project
+This repository contains my beginner python projects.
+## Projects
+- FizzBuzz
+- Guess The Number Game.
+## Goal
+Building Python skills through projects.
 ## Language
 - Python
 ## Author
