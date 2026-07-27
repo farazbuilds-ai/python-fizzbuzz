@@ -3,6 +3,7 @@ This repository contains my beginner python projects.
 ## Projects
 - FizzBuzz
 - Guess The Number Game.
+- Calculator
 ## Goal
 Building Python skills through projects.
 ## Language
