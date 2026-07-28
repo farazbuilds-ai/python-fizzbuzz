@@ -1,9 +1,10 @@
 # Python Beginner Project
 This repository contains my beginner python projects.
 ## Projects
-- FizzBuzz
+- FizzBuzz.
 - Guess The Number Game.
-- Calculator
+- Calculator.
+- Rock Paper Scissors Game.
 ## Goal
 Building Python skills through projects.
 ## Language
