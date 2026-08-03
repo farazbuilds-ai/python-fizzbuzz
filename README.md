@@ -5,7 +5,8 @@ This repository contains my beginner python projects.
 - Guess The Number Game.
 - Calculator.
 - Rock Paper Scissors Game.
-- Password Generator
+- Password Generator.
+- Parking FeeCalculator. 
 ## Goal
 Building Python skills through projects.
 ## Language
