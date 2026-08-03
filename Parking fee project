@@ -1,0 +1,9 @@
+def parking_fee(hours):
+   if hours<=1:
+    return 0
+   elif hours>1 and hours<=5:
+    return hours*50
+   elif hours>5:
+    return (hours*50)+200 #200 is fine of over time
+hours=float(input("Enter the number of parking hours: "))
+print("Your parking fee =",parking_fee(hours))
