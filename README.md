@@ -6,7 +6,8 @@ This repository contains my beginner python projects.
 - Calculator.
 - Rock Paper Scissors Game.
 - Password Generator.
-- Parking FeeCalculator. 
+- Parking Fee Calculator.
+- Student Result System. 
 ## Goal
 Building Python skills through projects.
 ## Language
