@@ -1,5 +1,5 @@
 def grade(percentage):
- if percentage>=90.0:
+ if percentage>=90:
    return "A+"
  elif percentage>=80 or percentage <=89:
  	return "A"
