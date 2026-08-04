@@ -1,0 +1,29 @@
+def grade(percentage):
+ if percentage>=90.0:
+   return "A+"
+ elif percentage>=80 or percentage <=89:
+ 	return "A"
+ elif percentage >=70 or percentage <=79:
+ 	return "B"
+ elif percentage >=60 or percentage <=69:
+ 	return "C"
+ elif percentage>=50 or percentage <=59:
+ 	return "D"
+ elif percentage >=40 or percentage <=49.0:
+ 	return "E"
+ elif percentage <40:
+ 	return "F"
+name=input("What is your name:")
+eng=int(input("Enter your English marks: "))
+urdu=int(input("Enter your Urdu marks: "))
+math=int(input("Enter your Mathamatics marks: "))
+phy=int(input("Enter your Physics marks: "))
+comp=int(input("Enter your Computer marks: "))
+isl=int(input("Enter your Islamiyat marks: "))
+tarjama=int(input("Enter your Tarjama marks: "))
+obt_marks=eng+urdu+math+phy+comp+tarjama+isl
+percentage=obt_marks/560*100 
+percentage=round(percentage)
+print("========Student Result========")
+print ("Name:",name,"\nTotal marks:",obt_marks,"\nPercentage:",percentage,"%""\nGrade:",grade(percentage))
+print("==============================")
