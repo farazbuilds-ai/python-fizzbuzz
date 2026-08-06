@@ -1,0 +1,22 @@
+def fahrenheit():
+ return (cel*9/5)+32
+def celsius():
+ return (fah-32)*5/9
+print("===== Temperature Converter=====")
+print("1.Celsius to Fahrenheit\n2.Fahrenheit to Celsius\n3.Exit")
+while True:
+ user=int(input("Enter your choice: "))
+ if user==1:
+   cel=int(input("Enter the Celsius Temperature: "))
+   print("Fahrenheit:",fahrenheit(),"°F")
+ elif user==2:
+   fah=int(input("Enter the Fahrrnheit Temperature "))
+   print("Celsius:",celsius(),"°C")
+ elif user==3:
+   import sys
+   sys.exit()
+ else:
+  print("Invalid Choice!")
+  
+ 
+ 
